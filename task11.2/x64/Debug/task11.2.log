@@ -1,0 +1,3 @@
+﻿  task11.2.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" exited with code 2.
+D:\Projects\Assignments\Isira\2023.05.21 CPP Assignment\task11.2\task11.2.cpp(1,10): fatal  error C1083: Cannot open include file: 'splashkit.h': No such file or directory
